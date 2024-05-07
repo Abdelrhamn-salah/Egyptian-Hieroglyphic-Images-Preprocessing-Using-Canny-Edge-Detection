@@ -1,0 +1,1 @@
+# Egyptian-Hieroglyphic-Images-Preprocessing-Using-Canny-Edge-Detection
